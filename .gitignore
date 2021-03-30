@@ -1,0 +1,8 @@
+/.idea
+/venv
+/photo_insta
+/__pycache__/
+data.py
+data_instagram.py
+getlike_cookies
+instagram_cookies
